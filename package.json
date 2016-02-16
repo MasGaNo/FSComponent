@@ -1,0 +1,27 @@
+{
+  "name": "FSComponent",
+  "version": "0.0.1",
+  "description": "FSComponent, class of component of Fantasite.JS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasGaNo/FSComponent.git"
+  },
+  "dependencies": {},
+  "keywords": [
+    "Fantasite",
+    "component",
+    "javascript",
+    "MasGaNo"
+  ],
+  "author": {
+    "name": "MasGaNo"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasGaNo/FSComponent/issues"
+  },
+  "homepage": "https://github.com/MasGaNo/FSComponent",
+  "main": "src/library/component/component.js",
+  "gitHead": "74bf9170283e3ec71d0d72fcaa6c44d1a996341e",
+  "readme": "ERROR: No README data found!"
+}
